@@ -1,0 +1,2 @@
+pool:
+  vmImage: 'Ubnuntu-16.04'
